@@ -1,1 +1,2 @@
 New text created in master branch
+Edited to test staging area
