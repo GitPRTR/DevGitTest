@@ -1,1 +1,2 @@
 Test 1 file from maste
+Edited in feature2nd
