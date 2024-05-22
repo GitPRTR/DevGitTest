@@ -1,3 +1,4 @@
 Test 1 file from maste
 Edited from master before merging feature2nd
 These lines should be a conflict.
+Edited in feature2nd
